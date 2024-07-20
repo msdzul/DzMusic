@@ -1,6 +1,9 @@
 <h1> DzMusic Telegram Music bot with pyrogram V2 and pytgcalls</h1>
 
-<h4>VPS DEPLOYMENT</h4>
+### HEROKU DEPLOYMENT
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/msdzul/DzMusic)</br>
+
+<h3>VPS DEPLOYMENT</h3>
 
 ```
 apt update && apt upgrade -y
@@ -44,6 +47,7 @@ bash start
 ```
 
 <p>IF DONE CTRL+A+D</p>
+
 
 <h3><b></b>Fitur:</h3></b>
 
